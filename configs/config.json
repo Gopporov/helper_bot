@@ -1,0 +1,4 @@
+{
+  "mongo_url": "mongodb+srv://shavkat:sava.123@cluster0.68paa.mongodb.net/farrosh?authSource=admin&replicaSet=atlas-lfr8jz-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
+  "URL": "http://localhost:3000"
+}

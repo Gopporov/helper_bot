@@ -1,0 +1,16 @@
+{
+  "name": "myfarroshbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shavkat",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.4.4",
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
